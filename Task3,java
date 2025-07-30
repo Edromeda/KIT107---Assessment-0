@@ -1,0 +1,8 @@
+public class Task3 {
+    public static void main(String[] args){
+        System.out.println("Hi");
+        int age = 4;
+        String name = "Ed";
+        System.out.print(name + age);
+    }
+}
