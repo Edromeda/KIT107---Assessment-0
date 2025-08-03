@@ -4,10 +4,11 @@ public class Task2{
         //New scanner for Input
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter your numbers (min-max): ");
-        //Get min value
+
+        //Get values
         int min = scanner.nextInt();
-        //Get max value
         int max = scanner.nextInt();
+        
         //Looping to print values in between
         if (min < max){
             while (min != max){
