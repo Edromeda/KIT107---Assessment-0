@@ -1,4 +1,4 @@
-# KIT107---Assessment-0
+# KIT107
 A formative task for KIT107 - Programming. 3 Different tasks in one.
 # Tasks:
 1. You must write a Python (or Java) program to define two str variables with values
